@@ -1,8 +1,0 @@
-me:
-	@true
-
-happy:
-	@echo "error: too hard"
-
-me happy:
-	@echo "error: too hard"
