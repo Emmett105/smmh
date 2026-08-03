@@ -1,0 +1,3 @@
+sudo make me happy() {
+  echo "error: to hard"
+}
